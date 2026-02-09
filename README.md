@@ -80,9 +80,11 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 • Explore all the available services in AWS platform.
 # Output:
 
-![image](https://github.com/user-attachments/assets/54122f2f-f156-4b78-9b07-730a343f511d)
+<img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/5a5e7a3c-7e79-43c5-9f09-e8a93a922f08" />
 
-![image](https://github.com/user-attachments/assets/6151762a-f261-4c40-adbe-37a6b38cd2d0)
+
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/937beac9-04fb-44b8-b667-9f610570f5c9" />
+
 
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
